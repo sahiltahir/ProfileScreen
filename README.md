@@ -1,3 +1,1 @@
-# Profileui
-
-Just Ui screen for a profile page
+Just a ui screen
